@@ -1,0 +1,71 @@
+roles:
+  scada:
+    name: "SCADA Engineer"
+    resume_path: "C:/Users/SRKONAB/Downloads/Shriya_SCADA_Engineer.pdf"
+    search_urls:
+      - "https://www.linkedin.com/jobs/search/?currentJobId=4401677254&distance=25&geoId=103644278&keywords=scada%20engineer&origin=JOB_SEARCH_PAGE_KEYWORD_HISTORY&refresh=true"
+    keywords:
+      - SCADA
+      - Ignition
+      - Wonderware
+      - AVEVA
+      - WinCC
+      - FactoryTalk
+      - HMI
+      - BMS
+      - EPMS
+      - PLC
+      - Allen-Bradley
+      - Siemens
+      - TIA Portal
+      - Modbus
+      - BACnet
+      - OPC UA
+      - EtherNet/IP
+      - PROFINET
+      - commissioning
+      - historian
+      - alarm
+      - data center
+
+  controls:
+    name: "Controls Systems Engineer"
+    resume_path: "C:/Users/SRKONAB/Downloads/Shriya_Controls_Resume.pdf"
+    search_urls:
+      - "https://www.linkedin.com/jobs/search/?currentJobId=4385433547&distance=25&geoId=101318387&keywords=controls%20systems%20engineer&origin=JOB_SEARCH_PAGE_KEYWORD_HISTORY&refresh=true"
+    keywords:
+      - controls engineer
+      - PLC
+      - Allen-Bradley
+      - Studio 5000
+      - RSLogix
+      - Siemens
+      - TIA Portal
+      - Step 7
+      - Codesys
+      - Schneider
+      - Ladder Logic
+      - Structured Text
+      - HMI
+      - SCADA
+      - Ignition
+      - FactoryTalk View
+      - WinCC
+      - HVAC
+      - chiller
+      - VFD
+      - Modbus
+      - PROFINET
+      - EtherNet/IP
+      - BACnet
+      - commissioning
+      - data center
+      - PID
+
+settings:
+  max_jobs_per_search: 30
+  scroll_pauses_ms: 1500
+  headless: false
+  user_data_dir: "data/state/chrome_profile"
+  output_dir: "data/jobs"
+  ranked_csv: "data/ranked.csv"
