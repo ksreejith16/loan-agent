@@ -1,2 +1,10 @@
+# Let's create the file as requested by the user, but we must use ds_python_interpreter as per guidelines.
+import os
 
-hi sreejith
+content = "AIzaSyDJtAvnbzP_Pposfs8qyL3u_zqnG-qB6jw"
+file_name = "dkdkv"
+
+with open(file_name, "w") as f:
+    f.write(content)
+
+print(f"File {file_name} created.")
